@@ -1,7 +1,3 @@
-12 - Fotografia
-    nome: fotografia-1021
-    link: https://neps.academy/br/exercise/1021
-
 13 - Contas a Pagar
     nome: contas-a-pagar-2321
     link: https://neps.academy/br/exercise/2321
@@ -33,3 +29,7 @@
 20 - Jogo de Tabuleiro
     nome: jogo-de-tabuleiro-22
     link: https://neps.academy/br/exercise/22
+
+21 - Epidemia
+    nome: epidemia-2316
+    link: https://neps.academy/br/exercise/2316

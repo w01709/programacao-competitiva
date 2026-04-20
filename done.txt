@@ -42,3 +42,7 @@
     nome: acelerador-de-particulas-822
     link: https://neps.academy/br/exercise/822
 
+12 - Fotografia
+    nome: fotografia-1021
+    link: https://neps.academy/br/exercise/1021
+
